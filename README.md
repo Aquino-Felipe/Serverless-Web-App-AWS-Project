@@ -2,7 +2,7 @@
 
 Serverless Web Application on AWS 
 
-![alt text](Screenshots/ServerlessWebApp.drawio.png)
+![alt text](ServerlessWebApp.drawio.png)
 
 Stack:
 1. Amazon S3
